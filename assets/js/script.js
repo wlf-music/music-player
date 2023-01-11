@@ -8,11 +8,15 @@
 
 const musicData = [  
   {
-    backgroundImage: "./assets/images/WomanLifeFreedom.png",
+    backgroundImage: "",
     posterUrl: "./assets/images/WomanLifeFreedom.png",
     title: "Sorood e Barabari | Anthem of Equality",
     lyrics:
-     "I sprout from the wounds on my body; [I have been suffered] just because of my existence, because I am a woman, I am a woman, I am a woman / If we unite, if we  ",
+     "I sprout from the wounds on my body. [I have been suffered] just because of my existence, because I am a woman, I am a woman, I am a woman // " + 
+     "If we unite and march hand in hand, we will overcome the oppression // " + 
+     "Let's build a new world from equality, sympathy and sisterhood. A happier and better world. // " + 
+     "[A world in which there is] no stoning, no gallows, no sobbing, and no shame and disgrace // " + 
+     "Let's build a new world from equality, sympathy and sisterhood. A happier and better world.",
     year: "",
     artist: "Anonymous Artists",
     musicPath: "./assets/music/soroode_barabari.mp3",
