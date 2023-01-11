@@ -303,7 +303,7 @@ body:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); 
 }
 
 .label-wrapper span:first-child::after {
-  content: "|";
+  content: "";
   display: inline-block;
   margin-inline: 4px;
 }

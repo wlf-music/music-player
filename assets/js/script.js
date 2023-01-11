@@ -6,52 +6,17 @@
  * all music information
  */
 
-const musicData = [
+const musicData = [  
   {
-    backgroundImage: "./assets/images/poster-1.jpg",
-    posterUrl: "./assets/images/poster-1.jpg",
-    title: "Happy Moments (Master)",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit x Tonion",
-    musicPath: "./assets/music/music-1.mp3",
-  },
-  {
-    backgroundImage: "./assets/images/poster-2.jpg",
-    posterUrl: "./assets/images/poster-2.jpg",
-    title: "We Are Going To Be Ok (Master)",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit x Jhove",
-    musicPath: "./assets/music/music-2.mp3",
-  },
-  {
-    backgroundImage: "./assets/images/poster-3.jpg",
-    posterUrl: "./assets/images/poster-3.jpg",
-    title: "Winter Meadow",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit x  juniorodeo",
-    musicPath: "./assets/music/music-3.mp3",
-  },
-  {
-    backgroundImage: "./assets/images/poster-4.jpg",
-    posterUrl: "./assets/images/poster-4.jpg",
-    title: "From Where We Started",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit",
-    musicPath: "./assets/music/music-4.mp3",
-  },
-  {
-    backgroundImage: "./assets/images/poster-5.jpg",
-    posterUrl: "./assets/images/poster-5.jpg",
-    title: "Where I Found You",
-    album: "No Spirit",
-    year: 2022,
-    artist: "No Spirit",
-    musicPath: "./assets/music/music-5.mp3",
-  },
+    backgroundImage: "./assets/images/WomanLifeFreedom.png",
+    posterUrl: "./assets/images/WomanLifeFreedom.png",
+    title: "Sorood e Barabari | Anthem of Equality",
+    lyrics:
+     "I sprout from the wounds on my body; [I have been suffered] just because of my existence, because I am a woman, I am a woman, I am a woman / If we unite, if we  ",
+    year: "",
+    artist: "Anonymous Artists",
+    musicPath: "./assets/music/soroode_barabari.mp3",
+  },  
 ];
 
 
@@ -147,7 +112,7 @@ addEventOnElements(playlistItems, "click", function () {
 
 const playerBanner = document.querySelector("[data-player-banner]");
 const playerTitle = document.querySelector("[data-title]");
-const playerAlbum = document.querySelector("[data-album]");
+const playerLyrics = document.querySelector("[data-lyrics]");
 const playerYear = document.querySelector("[data-year]");
 const playerArtist = document.querySelector("[data-artist]");
 
@@ -158,7 +123,7 @@ const changePlayerInfo = function () {
   playerBanner.setAttribute("alt", `${musicData[currentMusic].title} Album Poster`);
   document.body.style.backgroundImage = `url(${musicData[currentMusic].backgroundImage})`;
   playerTitle.textContent = musicData[currentMusic].title;
-  playerAlbum.textContent = musicData[currentMusic].album;
+  playerLyrics.textContent = musicData[currentMusic].lyrics;
   playerYear.textContent = musicData[currentMusic].year;
   playerArtist.textContent = musicData[currentMusic].artist;
 
