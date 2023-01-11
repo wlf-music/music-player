@@ -9,17 +9,34 @@
 const musicData = [  
   {
     backgroundImage: "",
-    posterUrl: "./assets/images/WomanLifeFreedom.png",
+    posterUrl: "./assets/images/mahsa.jpg",
     title: "Sorood e Barabari | Anthem of Equality",
     lyrics:
-     "I sprout from the wounds on my body. [I have been suffered] just because of my existence, because I am a woman, I am a woman, I am a woman // " + 
-     "If we unite and march hand in hand, we will overcome the oppression // " + 
-     "Let's build a new world from equality, sympathy and sisterhood. A happier and better world. // " + 
-     "[A world in which there is] no stoning, no gallows, no sobbing, and no shame and disgrace // " + 
-     "Let's build a new world from equality, sympathy and sisterhood. A happier and better world.",
+     "I sprout from the wounds on my body / [I have been suffered] just because of my existence, because I am a woman / I am a woman / I am a woman. // " + 
+     "If we unite and march hand in hand, we will overcome the oppression. // " + 
+     "Let's build a new world from equality, sympathy and sisterhood / A happier and better world. // " + 
+     "[A world in which there is] no stoning, no gallows, no sobbing, and no shame and disgrace. // " + 
+     "Let's build a new world from equality, sympathy and sisterhood / A happier and better world.",
     year: "",
     artist: "Anonymous Artists",
     musicPath: "./assets/music/soroode_barabari.mp3",
+  },
+  {
+    backgroundImage: "",
+    posterUrl: "./assets/images/nika.jpg",
+    title: "Sorood e Atash | Anthem of Fire",
+    lyrics:
+     "Be the voice of my country / be our fist / don't turn your back. We are still alive and so our names will carry-on in our path [towards freedom]. // " + 
+     "I am Mahsa / I am Nika / I am those women freed from evil / I am that mom who is mourning for her child / You be the narrator of those fearless people. // " + 
+     "In the mist of all this gas and tears in my eyes ... " + 
+     "I am Minoo / You be [her] tress / I am the loneliness of a dark night / You be the 'Woman, Life, Freedom' / You be those people who are freed. // " + 
+     "We share the same story and the same struggle / Let's not retreat / Let's not forgive your spilled blood. // " + 
+     "I am that [poor] doorman / I am the corpse of that prisonor / I am that worker who is on strike [to protest] / If you untangle your hair, you will be that bloody Aban (more than 1500 protesters were murdered in November (Aban) 2019). // "+
+     "You be the answer [that I will give] to my child / When falling from the sky, my wings are of fire and my name is Reera (reference to PS752) / The month of Dey is our pact  (the Urkanian flight was shot down in January (Dey) of 2020). // " + 
+     "Give me your hand, and take my hand, because I have reached the resurrection of your body / Break your cage and be free from gold / Throw fire, then you will become Azar (bloody protests in December (Azar) 2020. ",
+    year: "",
+    artist: "Anonymous Artists",
+    musicPath: "./assets/music/soroode_atash.mp3",
   },  
 ];
 
