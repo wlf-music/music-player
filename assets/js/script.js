@@ -8,7 +8,7 @@
 
 const musicData = [  
   {
-    backgroundImage: "",
+    backgroundImage: "./assets/images/mahsa.jpg",
     posterUrl: "./assets/images/mahsa.jpg",
     title: "Sorood e Barabari | Anthem of Equality",
     lyrics:
@@ -22,13 +22,13 @@ const musicData = [
     musicPath: "./assets/music/soroode_barabari.mp3",
   },
   {
-    backgroundImage: "",
+    backgroundImage: "./assets/images/nika.jpg",
     posterUrl: "./assets/images/nika.jpg",
     title: "Sorood e Atash | Anthem of Fire",
     lyrics:
      "Be the voice of my country / be our fist / don't turn your back. We are still alive and so our names will carry-on in our path [towards freedom]. // " + 
      "I am Mahsa / I am Nika / I am those women freed from evil / I am that mom who is mourning for her child / You be the narrator of those fearless people. // " + 
-     "In the mist of all this gas and tears in my eyes ... " + 
+     "In the mist of all this gas and tears in my eyes / Your defense has destroyed the dagger of tyranny //" + 
      "I am Minoo / You be [her] tress / I am the loneliness of a dark night / You be the 'Woman, Life, Freedom' / You be those people who are freed. // " + 
      "We share the same story and the same struggle / Let's not retreat / Let's not forgive your spilled blood. // " + 
      "I am that [poor] doorman / I am the corpse of that prisonor / I am that worker who is on strike [to protest] / If you untangle your hair, you will be that bloody Aban (more than 1500 protesters were murdered in November (Aban) 2019). // "+
