@@ -12,7 +12,7 @@ const musicData = [
     posterUrl: "./assets/images/mahsa.jpg",
     title: "Sogand | Oath",
     lyrics:
-      "I wrote this letter for you from the soil of cold alleys / [I wrote this letter] with my fresh blood so that our pain changes to  laughter // When the next day comes, my [happy] spirit would give a new life to greeneries / The eternal sun of freedom is the light of our sky // I take an oath by the blood of my comrades / I take an oath by the tears of mothers that our eternal cry will not die down by their blade // We are the flood of blood that happened in the month of Aban [of 2019] / [This blood] is mixed with injustice / Our only sin was anger in response to cruelty // My defenseless body and soul is the target of oppressors' arrows / but I am stillI proud and confident of our revolution // I take an oath by the lovers of Iran / I take an oath by the rage of Zahedan [a city in south-west of Iran] that I will not go back until the day when the usurpers leave our country // I take an oath by the blood of my comrades / I take an oath by the tears of mothers that our eternal cry will not die down by their blade.",
+      "I wrote this letter for you from the soil of cold alleys / [I wrote this letter] with my fresh blood so that our pain transforms into laughter // When the next day comes, my [happy] spirit would give a new life to greeneries / The eternal sun of freedom would be the light of our sky // I take an oath by the blood of my comrades / I take an oath by the mothers’ tears that our eternal cry will not die down by their blade // We are the flood of blood of  the month of Aban [of 2019] / [This blood] has been fused with injustice / Our only sin was our anger in response to cruelty // My defenseless body and soul is the target of oppressors' arrows / but I am stillI proud and confident of our revolution // I take an oath by the lovers of Iran / I take an oath by the rage of Zahedan [a city in the south-west of Iran] that I will not go back until the usurpers leave our country // I take an oath by the blood of my comrades / I take an oath by the mothers’ tears that our eternal cry will not die down by their blade.",
     year: "",
     artist: "Anonymous Artists",
     musicPath: "./assets/music/sogand.mp3",
@@ -20,23 +20,44 @@ const musicData = [
   {
     backgroundImage: "",
     posterUrl: "./assets/images/nika.jpg",
-    title: "Sorood e Barabari | Anthem of Equality",
+    title: "Baraye | For... (Original Farsi version)",
     lyrics:
-      "I sprout from the wounds on my body / [I have been suffering] just because of my existence, because I am a woman / I am a woman / I am a woman // If we unite and march hand in hand, we will overcome the oppression // Let's build a new world based on equality, sympathy and sisterhood / A happier and better world // [A world in which there is] no stoning, no gallows, no sobbing, and no shame and disgrace //  Let's build a new world based on equality, sympathy and sisterhood / A happier and better world.",
+      "For dancing on the streets / For the fear of kissing [your lover in public] / For my sister, your sister, our sisters / For changing these rotted minds / For the shame, for the poverty / For yearning for an ordinary life / For child laborers and their crushed dreams / For this dictatorial economy / For this polluted air / For Valiasr [a street in Tehran] and its forlorn trees / For Pirouz and the possibility of his extinction [Pirouz is a name of an Asiatic Cheetah, an endangered species with only three cubs known to be alive] / For the innocent forbidden dogs [that were massacred by the government] / For our ceaseless tears / For never experiencing this moment [Reera was killed in the flight PS752] / For smiling faces / For students and their future lives / For this compulsory ‘Heaven’ / For the imprisoned elite students / For Afghan kids / For all of these countless ‘For’s / For all of these meaningless slogans [by the government] / For the collapse of these flimsy houses / For peace and serenity / For the sunrise after a long dark night / For the sleeping pills and our sleepless nights / For man, homeland, and prosperity / For the girl that wished to be a boy / For woman, life, and freedom / For freedom... / For freedom... / For freedom...",
     year: "",
-    artist: "Anonymous Artists",
-    musicPath: "./assets/music/soroode_barabari.mp3",
-  },
+    artist: "Shervin Hajipour",
+    musicPath: "./assets/music/baraye.mp3",
+  },  
   {
     backgroundImage: "",
     posterUrl: "./assets/images/sarina.jpg",
+    title: "Baraye | For... (English version)",
+    lyrics:
+      "For dancing in the allies and the streets / For the thrill and the fear of getting caught kissing / For my sister, my brother, and unity / For all the times we tried to change their minds and stale beliefs / For the loss of pride, and poverty / For the dream of just a normal life for you and me / For all the children who are starving for a loaf of bread / For the greed of politics and all the lies they spread / For all the mass-polluted air we breathe / For all the litter in the streets and all the dying trees / For all the animals who suffer from elimination / For all the cats and dogs who love us without no conditions / For all the tears that seem to never end / For all the images that keep on turning in our heads / For a simple smile, for just a little while / For the future generations fighting for their time / For empty promises of heaven in the after-life / For all the imprisonment of beautiful minds / For all the babies who are born and for the ones who died / For all the times you told the truth, and all the times you lied / For all the speeches that we heard about a million times / For all the shacks and shelters that were sold to make a dime / For just a glimpse of a peaceful life / For the rising of the sun after an endless night / For all the pills we pop just to get some sleep / For all mankind, for our country / For all the boys and girls who never knew equality / For woman, for life, liberty.",
+    year: "",
+    artist: "Rana Mansour",
+    musicPath: "./assets/music/baraye_rana.mp3",
+  },  
+  {
+    backgroundImage: "",
+    posterUrl: "./assets/images/mohammad_hoseini.jpg",
+    title: "Sorood e Barabari | Anthem of Equality",
+    lyrics:
+      "I sprout from the wounds on my body / [I have been suffering] just because of my existence, because I am a woman / I am a woman / I am a woman // If we unite and march hand in hand, we will overcome the oppression // Let's build a new world based on equality, sympathy and sisterhood / A happier and better world // [A world in which there is] no stoning, no gallows, no sobbing, and no shame and disgrace // Let's build a new world based on equality, sympathy and sisterhood / A happier and better world.",
+    year: "",
+    artist: "Anonymous Artists",
+    musicPath: "./assets/music/soroode_barabari.mp3",
+  },  
+  {
+    backgroundImage: "",
+    posterUrl: "./assets/images/khodanur.png",
     title: "Sorood e Atash | Anthem of Fire",
     lyrics:
-      "Be the voice of my country / Be our fist / Don't turn your back / We are still alive and so our names will carry-on in our path towards freedom [even if we die]] // I am Mahsa / I am Nika / I am those women liberated from evil / I am that mother who is mourning for their children / You be the narrator of these fearless people // In the mist of the [tear] gas and the tears in my eyes / Your shield has destroyed the dagger of tyranny in a sparkling fire // I am Minoo / You be [her] tress / I am the loneliness of a dark night / You be the 'Woman, Life, Freedom' / You be those people who are liberated // We share the same story and the same struggle / Let's not retreat / Let's not forgive your blood [that was spilled in tyranny]] // I am that [poor] doorman / I am the corpse of a prisoner / I am that worker who is on strike / If you untangle your hair, you will be that bloody Aban (more than 1500 protesters were murdered in November-Aban 2019) // You be the answer [that I will give] to my child / When falling from the sky, my wings are of fire and my name is Reera (victim of the flight PS752) / The month of Dey is our pact (the Ukrainian flight was shot down in January-Dey of 2020) //  Give me your hand and hold mine, because I have reached the resurrection of your body / Break your prison and become free from material possessions / Stoke up some fire, then you will become Azar (bloody protests in December-Azar 2020.",           
+      "Be the voice of my country / Be our fist / Don't turn your back / We are still alive and so our names will carry-on in our path towards freedom [even if we die] // I am Mahsa / I am Nika / I am those women liberated from evil / I am that mother who is mourning for her lost child / You be the narrator of these fearless people // In the mist of the tear gas and the tears in my eyes / Your shield has destroyed the dagger of tyranny in a sparkling fire // I am Minoo / You be [her] tress / I am the loneliness of a dark night / You be the 'Woman, Life, Freedom' / You be those people who are liberated // We share the same story and the same struggle / Let's not retreat / Let's not forgive your blood [that was spilled in tyranny] // I am that [impoverished] doorman / I am the corpse of a prisoner / I am that worker who is on strike / If you untangle your hair, you will be that bloody Aban (more than 1500 protesters were murdered in November-Aban 2019) // You be the answer [that I will give] to my child / When falling from the sky, my wings are of fire and my name is Reera (victim of the flight PS752) / The month of Dey is our pact (the Ukrainian flight was shot down in January-Dey of 2020) // Give me your hand and hold mine, because I have reached the resurrection of your body / Break your prison and become free from material possessions / Stoke up some fire, then you will become Azar (bloody protests in December-Azar 2020.",
     year: "",
     artist: "Anonymous Artists",
     musicPath: "./assets/music/soroode_atash.mp3",
   },  
+  
 ];
 
 
