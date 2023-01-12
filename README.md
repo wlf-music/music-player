@@ -1,50 +1,8 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/music-player)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/music-player?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/music-player?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/jbMd2NVFrZk?style=social)](https://youtu.be/jbMd2NVFrZk)
+## Woman Life Freedom Music Player 
+If you want to hear the voices coming out of Iran, I have compiled some of the recent songs alongside their translated lyrics in this web-based music player. We Iranians, either living in Iran or diaspora, have been continually listening and crying to these songs, as they perfecly capture our long-lasting struggle. I will be adding more songs to this list.
 
-  <br />
-  <br />
-
-  <h2 align="center">Web Music Player</h2>
-
-  A fully responsive web music player using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript.
-
-  <a href="https://codewithsadee.github.io/music-player/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Music Player** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/music-player.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/music-player.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+### Contributions 
+If you want to help me add more music, please open an [issue](https://github.com/wlf-music/player/issues) or a [pull request](https://github.com/wlf-music/player/pulls). 
 
 ### License
-
 This project is **free to use** and does not contains any license.
