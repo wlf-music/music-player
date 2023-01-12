@@ -8,32 +8,31 @@
 
 const musicData = [  
   {
-    backgroundImage: "./assets/images/mahsa.jpg",
+    backgroundImage: "",
     posterUrl: "./assets/images/mahsa.jpg",
+    title: "Sogand | Oath",
+    lyrics:
+      "I wrote this letter for you from the soil of cold alleys / [I wrote this letter] with my fresh blood so that our pain changes to  laughter // When the next day comes, my [happy] spirit would give a new life to greeneries / The eternal sun of freedom is the light of our sky // I take an oath by the blood of my comrades / I take an oath by the tears of mothers that our eternal cry will not die down by their blade // We are the flood of blood that happened in the month of Aban [of 2019] / [This blood] is mixed with injustice / Our only sin was anger in response to cruelty // My defenseless body and soul is the target of oppressors' arrows / but I am stillI proud and confident of our revolution // I take an oath by the lovers of Iran / I take an oath by the rage of Zahedan [a city in south-west of Iran] that I will not go back until the day when the usurpers leave our country // I take an oath by the blood of my comrades / I take an oath by the tears of mothers that our eternal cry will not die down by their blade.",
+    year: "",
+    artist: "Anonymous Artists",
+    musicPath: "./assets/music/sogand.mp3",
+  },
+  {
+    backgroundImage: "",
+    posterUrl: "./assets/images/nika.jpg",
     title: "Sorood e Barabari | Anthem of Equality",
     lyrics:
-     "I sprout from the wounds on my body / [I have been suffered] just because of my existence, because I am a woman / I am a woman / I am a woman. // " + 
-     "If we unite and march hand in hand, we will overcome the oppression. // " + 
-     "Let's build a new world from equality, sympathy and sisterhood / A happier and better world. // " + 
-     "[A world in which there is] no stoning, no gallows, no sobbing, and no shame and disgrace. // " + 
-     "Let's build a new world from equality, sympathy and sisterhood / A happier and better world.",
+      "I sprout from the wounds on my body / [I have been suffering] just because of my existence, because I am a woman / I am a woman / I am a woman // If we unite and march hand in hand, we will overcome the oppression // Let's build a new world based on equality, sympathy and sisterhood / A happier and better world // [A world in which there is] no stoning, no gallows, no sobbing, and no shame and disgrace //  Let's build a new world based on equality, sympathy and sisterhood / A happier and better world.",
     year: "",
     artist: "Anonymous Artists",
     musicPath: "./assets/music/soroode_barabari.mp3",
   },
   {
-    backgroundImage: "./assets/images/nika.jpg",
-    posterUrl: "./assets/images/nika.jpg",
+    backgroundImage: "",
+    posterUrl: "./assets/images/sarina.jpg",
     title: "Sorood e Atash | Anthem of Fire",
     lyrics:
-     "Be the voice of my country / be our fist / don't turn your back. We are still alive and so our names will carry-on in our path [towards freedom]. // " + 
-     "I am Mahsa / I am Nika / I am those women freed from evil / I am that mom who is mourning for her child / You be the narrator of those fearless people. // " + 
-     "In the mist of all this gas and tears in my eyes / Your defense has destroyed the dagger of tyranny //" + 
-     "I am Minoo / You be [her] tress / I am the loneliness of a dark night / You be the 'Woman, Life, Freedom' / You be those people who are freed. // " + 
-     "We share the same story and the same struggle / Let's not retreat / Let's not forgive your spilled blood. // " + 
-     "I am that [poor] doorman / I am the corpse of that prisonor / I am that worker who is on strike [to protest] / If you untangle your hair, you will be that bloody Aban (more than 1500 protesters were murdered in November (Aban) 2019). // "+
-     "You be the answer [that I will give] to my child / When falling from the sky, my wings are of fire and my name is Reera (reference to PS752) / The month of Dey is our pact  (the Urkanian flight was shot down in January (Dey) of 2020). // " + 
-     "Give me your hand, and take my hand, because I have reached the resurrection of your body / Break your cage and be free from gold / Throw fire, then you will become Azar (bloody protests in December (Azar) 2020. ",
+      "Be the voice of my country / Be our fist / Don't turn your back / We are still alive and so our names will carry-on in our path towards freedom [even if we die]] // I am Mahsa / I am Nika / I am those women liberated from evil / I am that mother who is mourning for their children / You be the narrator of these fearless people // In the mist of the [tear] gas and the tears in my eyes / Your shield has destroyed the dagger of tyranny in a sparkling fire // I am Minoo / You be [her] tress / I am the loneliness of a dark night / You be the 'Woman, Life, Freedom' / You be those people who are liberated // We share the same story and the same struggle / Let's not retreat / Let's not forgive your blood [that was spilled in tyranny]] // I am that [poor] doorman / I am the corpse of a prisoner / I am that worker who is on strike / If you untangle your hair, you will be that bloody Aban (more than 1500 protesters were murdered in November-Aban 2019) // You be the answer [that I will give] to my child / When falling from the sky, my wings are of fire and my name is Reera (victim of the flight PS752) / The month of Dey is our pact (the Ukrainian flight was shot down in January-Dey of 2020) //  Give me your hand and hold mine, because I have reached the resurrection of your body / Break your prison and become free from material possessions / Stoke up some fire, then you will become Azar (bloody protests in December-Azar 2020.",           
     year: "",
     artist: "Anonymous Artists",
     musicPath: "./assets/music/soroode_atash.mp3",
