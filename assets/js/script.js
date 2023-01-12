@@ -39,6 +39,26 @@ const musicData = [
   },  
   {
     backgroundImage: "",
+    posterUrl: "./assets/images/arnika.jpg",
+    title: "Rah e Kouche | Alleyway",
+    lyrics:
+      "Come join us, the street is calling you / [The street] is calling your by your first name, which is Azadi (liberty) // Tell to whoever who has been sobbing that they are not alone in this //  Freedom, woman, life, woman, life, freedom (x2) / We have finally climbed over the fences of fear / We have finally learned the way to the alley / Your hair [Mahsa’s hair] has kissed the wind / [Your hair] has revived the city of death and murderers, despite the boots of oppressors and their raids // In the memory of your sister's blood, and your brother's torture / In the name of our homeland, stay by my side and sing this anthem / So that this song is chanted all across our country / Freedom, woman, life, woman, life, freedom (x2).",
+    year: "",
+    artist: "Anonymous Artists",
+    musicPath: "./assets/music/rahe_kouche.mp3",
+  },
+  {
+    backgroundImage: "",
+    posterUrl: "./assets/images/navid.jpg",
+    title: "Sorood e Zan | Anthem of Woman",
+    lyrics:
+      "Woman Life Freedom (x5) / In the memory of your name, which has become our password / Mahsa’s night [metaphor of death] has brought forth thousands of united voices // Sing along so that the whole city is filled with the anthem of woman / [Sing along] so that this homeland becomes our homeland again // During the night, in the alleyways, our comrades are knocking on doors and telling us that now it is our turn to join the movement / My brother is like my stronghold / His shade and his shoulders are a refuge for me // They [the IR regime] are whipping and torturing every witness / These tortured people who are fearlessly ready to die are like organs in my body / Instead of killing them, stab me in my heart / then the whole world would be filled with our chant // Give me a moment so that I can kiss them in their blood / We will become eternal / Our hair is dignified [and brings fears to the oppressors] // They have killed anyone who is revealing their crimes / Why emigrate? Stay here and let’s take back our country / Take a breath from their cruelty // Sing along so that the whole city is filled with the anthem of woman / [Sing along] so that this homeland becomes our homeland again.",
+    year: "",
+    artist: "Mehdi Yarrahi",
+    musicPath: "./assets/music/soroode_zan.mp3",
+  },
+  {
+    backgroundImage: "",
     posterUrl: "./assets/images/mohammad_hoseini.jpg",
     title: "Sorood e Barabari | Anthem of Equality",
     lyrics:
@@ -52,7 +72,7 @@ const musicData = [
     posterUrl: "./assets/images/khodanur.png",
     title: "Sorood e Atash | Anthem of Fire",
     lyrics:
-      "Be the voice of my country / Be our fist / Don't turn your back / We are still alive and so our names will carry-on in our path towards freedom [even if we die] // I am Mahsa / I am Nika / I am those women liberated from evil / I am that mother who is mourning for her lost child / You be the narrator of these fearless people // In the mist of the tear gas and the tears in my eyes / Your shield has destroyed the dagger of tyranny in a sparkling fire // I am Minoo / You be [her] tress / I am the loneliness of a dark night / You be the 'Woman, Life, Freedom' / You be those people who are liberated // We share the same story and the same struggle / Let's not retreat / Let's not forgive your blood [that was spilled in tyranny] // I am that [impoverished] doorman / I am the corpse of a prisoner / I am that worker who is on strike / If you untangle your hair, you will be that bloody Aban (more than 1500 protesters were murdered in November-Aban 2019) // You be the answer [that I will give] to my child / When falling from the sky, my wings are of fire and my name is Reera (victim of the flight PS752) / The month of Dey is our pact (the Ukrainian flight was shot down in January-Dey of 2020) // Give me your hand and hold mine, because I have reached the resurrection of your body / Break your prison and become free from material possessions / Stoke up some fire, then you will become Azar (bloody protests in December-Azar 2020.",
+      "Be the voice of my country / Be our fist / Don't turn your back / We are still alive and so our names will carry-on in our path towards freedom [even if we die] // I am Mahsa / I am Nika / I am those women liberated from evil / I am that mother who is mourning for her lost child / You be the narrator of these fearless people // In the mist of the tear gas and the tears in my eyes / Your shield has destroyed the dagger of tyranny in a sparkling fire // I am Minoo / You be [her] tress / I am the loneliness of a dark night / You be the 'Woman, Life, Freedom' / You be those people who are liberated // We share the same story and the same struggle / Let's not retreat / Let's not forgive your blood [that was spilled in tyranny] // I am that [impoverished] doorman / I am the corpse of a prisoner / I am that worker who is on strike / If you untangle your hair, you will be that bloody Aban (more than 1500 protesters were murdered in November-Aban 2019) // You be the answer [that I will give] to my child / When falling from the sky, my wings are of fire and my name is Reera (victim of the flight PS752) / The month of Dey is our pact (the Ukrainian flight was shot down in January-Dey of 2020) // Give me your hand and hold mine, because I have reached the resurrection of your body / Break your prison and become free from material possessions / Stoke up some fire, then you will become Azar (bloody protests in December-Azar 2020).",
     year: "",
     artist: "Anonymous Artists",
     musicPath: "./assets/music/soroode_atash.mp3",
