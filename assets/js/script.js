@@ -64,6 +64,17 @@ const musicData = [
   },
   {
     backgroundImage: "",
+    posterUrl: "./assets/images/hananeh.jpg",
+    title: "Be Name Dokhtaran e Sarzamin e Aftab | In the Name of the Daughters of the Land of Sun",
+    photo: "Hananeh Kia - 23 years old",
+    lyrics:
+      "In the name of the daughters of the land of the sun / In the name of the followers of righteousness, in the name of the revolution / To honor the crimson blood, for the will to live / I swear by the oppression wrought upon the body of womanhood // Transcend all those days lost in deep sleep / Transcend all the stressful moments / From the collar of captivity, toward the crave for life / Leave the cold and bitter world of slavery // Together we form a sea / We rage as a storm / Together we are strong fists / We shout, we are free // For the strands of hair of the daughters of the revolution / For my people, as per their choice / Fear not and breathe / For women's rights / Let's tear down the banner of the devil's tyranny // For the bright future that awaits us / Children recite legends of the past / The resounding roars of laughter blend together / ‘Woman, life’ is the message of our generation // Together we form a sea / We rage as a storm / Together we are strong fists / We shout, Freedom // O freedom! O freedom! / Woman Life Freedom.",
+    year: "",
+    artist: "Ethnic Musicians",
+    musicPath: "./assets/music/dokhtarane_sarzamine_aftab.mp3",
+  },
+  {
+    backgroundImage: "",
     posterUrl: "./assets/images/nasim.jpg",
     title: "Sorood e Azadi | Anthem of Liberty",
     photo: "Nasim Sedghi - 23 years old",
@@ -72,7 +83,7 @@ const musicData = [
     year: "",
     artist: "Anonymous Artists",
     musicPath: "./assets/music/soroode_azadi.mp3",
-  },  
+  },   
   {
     backgroundImage: "",
     posterUrl: "./assets/images/mohammad_mehdi_karami.jpg",
