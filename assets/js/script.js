@@ -53,14 +53,36 @@ const musicData = [
   },
   {
     backgroundImage: "",
-    posterUrl: "./assets/images/kian.jpg",
+    posterUrl: "./assets/images/asra.jpg",
+    title: "Avaz e Leilaha | Song of Leilas",
+    photo: " Asra Panahi - 15 years old",
+    lyrics:
+      "For dancing in the streets / For not being afraid anymore / For tomorrow when we’re laughing / For kissing, hey! // For the wind in Gina's hair / For Sarina's shoe ties / For Romina’s slaughtered neck / These (tyrants) must go! Hey! // For Khouzestan’s coughs / For Balouchestan’s wounds / For the lump in Tabriz’s throat / For Viva Kurdistan! // For the dried lakes by the panicky hands of the supreme leader / Life should be cherished on earth, Quran belongs to the shelf // Do not be scared! Do not be scared! / We are all in this together! / Be afrai! Be afraid! / We are together now! // Woman, life, freedom / Peace, hope and happiness (x2) / From the red snow of November to the black yogurt in Keihan (newspaper) / And the colorless homelessness of Afghans / What did you go through Iran! Hey! // Let the woman be free / Do not be afraid of the mind and the body / Breathe! Enough killing! / Let the homeland be the homeland! Hey! / A window to see, a window to listen / We should ask the mirror who is the savior? // A house and a loose tomb should be washed away from this world / The ground trembles under your feet, he is lonelier than you! // Do not be scared! Do not be scared! / We are all in this together! / Be afraid! Be afraid! We are together now! // Woman, life, freedom / Peace, hope and happiness (x2) // Said Farzad Kamangar to the Leilas in the trench / Whether he is a king or a leader, Death to the oppressor // From Hyrcani to Karoon / Aleppo, Shalamcheh, Khan Sheikhoun / We draw a line on this blood line / Here and now! Hey! // A totalitarian ruling with war, bigotry, isolation / Atheists, Jews, Baha’is living a lifetime loneliness / Flying wings are fiery, orchestrating with Simurgh / flying to the bright peaks by the tokens of this song // Do not be scared! Do not be scared! / We are all in this together! / Be afraid! Be afraid! / We are together now! // Woman, life, freedom / Peace, hope and happiness (x2).",
+    year: "",
+    artist: "Ethnic Musicians",
+    musicPath: "./assets/music/avaze_leilaha.mp3",
+  },
+  {
+    backgroundImage: "",
+    posterUrl: "./assets/images/nasim.jpg",
     title: "Sorood e Azadi | Anthem of Liberty",
-    photo: "Kian Pirfalak - 9 years old",
+    photo: "Nasim Sedghi - 23 years old",
     lyrics:
       "Rise-up for Woman Life Freedom (x3) // In the name of woman, and in the name of life, we will liberate ourselves from slavery / May our dark night dawn / May all the whips be axed, so that we can sing along the buds / You, others, and I will become ‘Us’ // I swear by the pure blood of tulips / [I swear by] the revolution of tears and kisses / In this transition of our endless suffering / Call me by my soul and body, O my homeland / Because with the red roar of your name, the world would tremble from your uprising // In the name of woman, and in the name of life / The slavery clothes were torn / May our dark night dawn / May all the whips be axed, so that we can sing along the buds / You, others, and I will become ‘Us’ // Rise-up for Woman Life Freedom (x3).",
     year: "",
     artist: "Anonymous Artists",
     musicPath: "./assets/music/soroode_azadi.mp3",
+  },  
+  {
+    backgroundImage: "",
+    posterUrl: "./assets/images/mohammad_mehdi_karami.jpg",
+    title: "Sorood e Azadi | Anthem of Liberty",
+    photo: "Mohammad Mehdi Karami - 21 years old",
+    lyrics:
+      "Rise-up for Woman Life Freedom (x3) // In the name of woman, and in the name of life, we will liberate ourselves from slavery / May our dark night dawn / May all the whips be axed, so that we can sing along the buds / You, others, and I will become ‘Us’ // I swear by the pure blood of tulips / [I swear by] the revolution of tears and kisses / In this transition of our endless suffering / Call me by my soul and body, O my homeland / Because with the red roar of your name, the world would tremble from your uprising // In the name of woman, and in the name of life / The slavery clothes were torn / May our dark night dawn / May all the whips be axed, so that we can sing along the buds / You, others, and I will become ‘Us’ // Rise-up for Woman Life Freedom (x3).",
+    year: "",
+    artist: "Anonymous Students at the University of Art",
+    musicPath: "./assets/music/soroode_azadi_honar.mp3",
   },  
   {
     backgroundImage: "",
@@ -95,6 +117,28 @@ const musicData = [
     artist: "Anonymous Artists",
     musicPath: "./assets/music/soroode_atash.mp3",
   },  
+  {
+    backgroundImage: "",
+    posterUrl: "./assets/images/mehrshad.jpg",
+    title: "Iran Ghargh e Enghelab Ast | Iran is Obsessed with Revolution",
+    photo: "Mehrshad Shahidi - 19 years old",
+    lyrics:
+      "Our country, our history, has learned a new lesson // It's as if the dawn of freedom has taken me in its light // Now I sing a song again free from suffering and anxiety // Iran is obsessed with revolution moving forward, moving forward, moving forward! // O worker, farmer, your path continues now! // At this time when the passion of victory rains on you from all sides / So, head towards prosperity from the Caspian Sea to Kish // Iran is obsessed with revolution moving forward, moving forward, moving forward! // People come join us, we are sparking our dream now // O enemies, we’re alive and Iran will remain even when we’re gone // To build our motherland with honor for our children // Iran is obsessed with revolution moving forward, moving forward, moving forward! // Our flag, the flag of Iran is soaked with the blood of martyrs // We will carry it on our shoulders in every street and every battlefield // To revive national traditions of every religion and faith // Iran is obsessed with revolution moving forward, moving forward, moving forward! (x2).",
+    year: "",
+    artist: "Iranian Choir Group",
+    musicPath: "./assets/music/iran_gharghe_enghelab.mp3",
+  },  
+  {
+    backgroundImage: "",
+    posterUrl: "./assets/images/kian.jpg",
+    title: "Moohat Hamchon Bahar e | Your Hair is like Spring",
+    photo: "Kian Pirfalak - 9 years old",
+    lyrics:
+      "It is night and the face of the motherland is black / Sitting in darkness is a sin / Give me your hand so we can find a way / that whoever is in love is on the way / Your hair is like spring / Your hair is fiery / Your hair will end the darkness // The night and the scary sea and the storm / Me and pure encouraging thoughts / Bring me a combat suit and a dagger / Because burning hearts are bleeding // Your hair is soaking with blood / Your hair is the secret name of our anger / You are empathetic with painful lovers / You are our comrades arm in arm / See the blood of loved ones on the wall / Blow in the morning light trumpet // Your hair is like spring / Your hair is fiery / Your hair is soaking with blood / In your hair is the secret name of our anger.",
+    year: "",
+    artist: "Anonymous Artists",
+    musicPath: "./assets/music/moohat_chon_bahare.mp3",
+  },
   
 ];
 
